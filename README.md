@@ -15,6 +15,9 @@ Needs:
 
 [AC-Sunday, 24th of February]--Major Element: Framework that allows all these objects and attributes to interact (React, json)
 
+
+[ ]-Landing page for character creation
+
 [CS]-Hero
     -Statistics per LIMB: (arms, legs, body, head?)
 
