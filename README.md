@@ -30,6 +30,8 @@ Needs:
 
 [JS]-Story/Adventure (text): 3 stories to mini-Boss, and 3 stories to Big Boss
         -3 stories = 1 story/ 1 riddle/ 1 story
+                Story: Decision hinge determines riddle?
+                Riddle: Riddles provide hints for the Big Bosses depending on how you solve it.
 
 [ ]-there will be sprites/placeholders
         
@@ -45,5 +47,9 @@ Needs:
 --Phase 2--
 -Sprites:   -interactive hex values/item colors?
             -articles worn by sprite/layered .svg
+
+LIMBS
+
+Family Progression
 
 
