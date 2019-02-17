@@ -4,12 +4,20 @@ Initialized js, html, and css.
 --MVP--
 
 Needs:
+-git clone <link>
+-git checkout -b <name-lastName-descriptor>
+        -git add .
+        -git commit -m "<>"
+        -git push origin <-b>
+-install homebrew (less, yarn)
 
---Major Element: Framework that allows all these objects and attributes to interact (React, json)
 
--Hero
--Hero Characteristics
-        -individial stats/attributes --- (Will affect both Combat and Story elements)
+
+[AC-Sunday]--Major Element: Framework that allows all these objects and attributes to interact (React, json)
+
+[ ]-Hero
+[ ]-Hero Characteristics
+        [ ]-individial stats/attributes --- (Will affect both Combat and Story elements)
             *HP (vitality)
             *Armor/Defense
             *Attack/Strength
@@ -17,13 +25,13 @@ Needs:
                 -Vitality (HP)
                 -Agility (Defense)
                 -Luck (extra 'something')
--Story/Adventure (text): 3 stories to mini-Boss, and 3 stories to Big Boss
+[ ]-Story/Adventure (text): 3 stories to mini-Boss, and 3 stories to Big Boss
         -3 stories = 1 story/ 1 riddle/ 1 story
--there will be sprites/placeholders
+[ ]-there will be sprites/placeholders
         
--riddles to solve (E.B.O.N.Y.esque)
+[ ]-riddles to solve (E.B.O.N.Y.esque)
 mini-Boss---->Boss
-        -individual stats/attributes
+        [ ]-individual stats/attributes
 
 **Once a week - Zoom, hash out stuff - Wednesdays (30min+, 6:30pm)
 
