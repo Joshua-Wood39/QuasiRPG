@@ -13,7 +13,7 @@ Needs:
 
 
 
-[AC-Sunday]--Major Element: Framework that allows all these objects and attributes to interact (React, json)
+[AC-Sunday, 24th of February]--Major Element: Framework that allows all these objects and attributes to interact (React, json)
 
 [CS]-Hero
     -Statistics per LIMB: (arms, legs, body, head?)
