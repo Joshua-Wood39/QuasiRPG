@@ -15,7 +15,8 @@ Needs:
 
 [AC-Sunday]--Major Element: Framework that allows all these objects and attributes to interact (React, json)
 
-[ ]-Hero
+[CS]-Hero
+    -Statistics per LIMB: (arms, legs, body, head?)
 [ ]-Hero Characteristics
         [ ]-individial stats/attributes --- (Will affect both Combat and Story elements)
             *HP (vitality)
@@ -25,7 +26,7 @@ Needs:
                 -Vitality (HP)
                 -Agility (Defense)
                 -Luck (extra 'something')
-[ ]-Story/Adventure (text): 3 stories to mini-Boss, and 3 stories to Big Boss
+[JS]-Story/Adventure (text): 3 stories to mini-Boss, and 3 stories to Big Boss
         -3 stories = 1 story/ 1 riddle/ 1 story
 [ ]-there will be sprites/placeholders
         
